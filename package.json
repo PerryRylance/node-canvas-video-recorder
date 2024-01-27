@@ -1,0 +1,17 @@
+{
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.23.9",
+		"@babel/preset-env": "^7.23.9",
+		"@babel/preset-typescript": "^7.23.3",
+		"babel-jest": "^29.7.0",
+		"jest": "^29.7.0",
+		"three": "^0.160.1"
+	},
+	"dependencies": {
+		"canvas": "^2.11.2",
+		"pellicola": "^0.13.0"
+	}
+}
