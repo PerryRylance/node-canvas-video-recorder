@@ -12,3 +12,6 @@ Drop in package for recording video from a canvas element.
 - The page must add a method `render` to the `window`, which receives `playhead` (0.0 - 1.0).
 - Your `render` function should manipulate the canvas.
 - Run `npm run capture` to generate `output.mp4`
+
+## Examples
+You can see an example [here](https://github.com/PerryRylance/node-canvas-video-recorder-example).
