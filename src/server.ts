@@ -4,7 +4,7 @@ import pellicola from "pellicola";
 import { exit } from "process";
 import { readFileSync, existsSync } from "fs";
 
-const projectPackageJsonFile = "../../../package.json";
+const projectPackageJsonFile = "./package.json";
 
 if(!existsSync(projectPackageJsonFile))
 	throw new Error("Couldn't find your projects package.json, did you install via npm?");
