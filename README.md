@@ -3,7 +3,7 @@ Drop in package for recording video from a canvas element.
 
 ## Installation
 - `npm install @perry-rylance/node-canvas-video-recorder`.
-- In your projects `package.json` add `"capture": "npx ts-node-esm ./node_modules/@perry-rylance/node-canvas-video-recorder/src/server.ts`.
+- In your projects `package.json` add `"capture": "npx ts-node-esm ./node_modules/@perry-rylance/node-canvas-video-recorder/src/server.ts"`.
 - In your projects `package.json`add a `capture` object, this needs to specify `url`, `output`, `width` and `height`.
 
 ## Usage

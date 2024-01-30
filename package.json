@@ -2,6 +2,15 @@
   "name": "@perry-rylance/node-canvas-video-recorder",
   "author": "Perry Rylance <contact@perryrylance.com> (https://perryrylance.com/)",
   "homepage": "https://github.com/PerryRylance/node-canvas-video-recorder",
+  "description": "Capture video from a HTML canvas",
+  "private": false,
+  "publishConfig": {
+	"access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerryRylance/node-canvas-video-recorder.git"
+  },
   "version": "1.0.0",
   "type": "module",
   "scripts": {
